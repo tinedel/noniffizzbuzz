@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e86a20b9-eb66-4765-8086-2872876bb413" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1W9X62ZWsn1gHNBR07iUntURBkS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="NonIfFizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NonIfFizzBuzz" />
+      <module name="noniffizzbuzz" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NonIfFizzBuzz" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/projects/gatling" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e86a20b9-eb66-4765-8086-2872876bb413" name="Default Changelist" comment="" />
+      <created>1578562605921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578562605921</updated>
+      <workItem from="1578562609855" duration="2250000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="265" key="#com.intellij.ide.util.MemberChooser" timestamp="1578563009738">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="765" y="265" key="#com.intellij.ide.util.MemberChooser/1920.30.1920.1050/0.30.1920.1050@0.30.1920.1050" timestamp="1578563009738" />
+    <state width="1876" height="285" key="GridCell.Tab.0.bottom" timestamp="1578564540273">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="285" key="GridCell.Tab.0.bottom/1920.30.1920.1050/0.30.1920.1050@0.30.1920.1050" timestamp="1578564540273" />
+    <state width="1876" height="285" key="GridCell.Tab.0.center" timestamp="1578564540273">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="285" key="GridCell.Tab.0.center/1920.30.1920.1050/0.30.1920.1050@0.30.1920.1050" timestamp="1578564540273" />
+    <state width="1876" height="285" key="GridCell.Tab.0.left" timestamp="1578564540272">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="285" key="GridCell.Tab.0.left/1920.30.1920.1050/0.30.1920.1050@0.30.1920.1050" timestamp="1578564540272" />
+    <state width="1876" height="285" key="GridCell.Tab.0.right" timestamp="1578564540273">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="285" key="GridCell.Tab.0.right/1920.30.1920.1050/0.30.1920.1050@0.30.1920.1050" timestamp="1578564540273" />
+    <state x="681" y="296" width="540" height="524" key="StructurePopup" timestamp="1578564309858">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="681" y="296" width="540" height="524" key="StructurePopup/1920.30.1920.1050/0.30.1920.1050@0.30.1920.1050" timestamp="1578564309858" />
+    <state width="1211" height="598" key="javadoc.popup.new" timestamp="1578564562648">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1211" height="598" key="javadoc.popup.new/1920.30.1920.1050/0.30.1920.1050@0.30.1920.1050" timestamp="1578564562648" />
+  </component>
+</project>
